@@ -45,12 +45,13 @@
 ### 🛠️ Tools I Probably Misuse
 
 <p align="center">
-  <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/python.gif" width="60" />
-  <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/hf.gif" width="60" />
-  <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/ollama.gif" width="60" />
-  <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/vs.gif" width="60" />
-  <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/git.gif" width="60" />
+  <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/python.gif" width="200" />
+  <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/hf.gif" width="200" />
+  <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/ollama.gif" width="200" />
+  <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/vs.gif" width="150" />
+  <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/git.gif" width="150" />
 </p>
+
 
 ---
 
