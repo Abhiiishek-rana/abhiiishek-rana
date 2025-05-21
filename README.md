@@ -58,8 +58,7 @@
 <table align="center">
   <tr>
     <td>
-      <p>I’m a <strong>B.Tech CSE (DS)</strong> student juggling neural nets, caffeine overdoses, and plot twists in Python.<br>
-      Building stuff that *might* accidentally take over the world (but with a clean UI, don’t worry).</p>
+      <p>I’m a <strong>B.Tech CSE (DS)</strong> student, I build AI tools that might one day take over the world — or at least help you organize your files..</p>
     </td>
     <td align="center" width="160">
       <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/enjoycoding.gif" width="140" />
