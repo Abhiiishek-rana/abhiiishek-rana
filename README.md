@@ -4,7 +4,7 @@
   <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/banner.gif" alt="Banner" width="100%" style="border-radius: 12px;" />
 </p>
 
-<h2 align="center">⚡ chaotic good. caffeinated dev. <br> always debugging life.</h2>
+<h2 align="center">⚡I tired to make it better brhhh...</h2>
 
 ---
 
@@ -16,10 +16,8 @@
       <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/hi.gif" width="90" alt="Hi"/>
     </td>
     <td>
-      <p><strong>Hey there, internet wanderer 👋</strong><br>
-      Welcome to my cave of questionable projects and digital caffeine.  
-      I build tools that may or may not break reality.<br>
-      Powered by bugs 🐛, dark mode 🌑, and late-night rants 🗯️.</p>
+      <p><strong>Sup Dude👋</strong><br>
+      I'm on a chaotic quest to solve real-world problems — or at least confuse them into submission. Whether it’s building tools, making life easier for devs, or creating projects no one asked for — you’ll find me doing it, with a coffee in one hand and bugs in the other.</p>
     </td>
     <td align="center" width="130">
       <img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/asset/mole.gif" width="110" alt="Mole" />
