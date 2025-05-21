@@ -47,12 +47,12 @@
 
 ### 🧠 Buzzwords I Pretend to Understand
 
-<div align="center" style="margin-top: 10px; max-width: 600px; margin-left: auto; margin-right: auto;">
-  <span style="display: inline-block; background-color: #ffd166; color: #073b4c; padding: 8px 20px; margin: 5px 8px; border-radius: 20px; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1rem; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Generative AI</span>
-  <span style="display: inline-block; background-color: #06d6a0; color: #073b4c; padding: 8px 20px; margin: 5px 8px; border-radius: 20px; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1rem; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Data Science</span>
-  <span style="display: inline-block; background-color: #118ab2; color: #e0f7fa; padding: 8px 20px; margin: 5px 8px; border-radius: 20px; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1rem; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Artificial Intelligence</span>
-  <span style="display: inline-block; background-color: #ef476f; color: #fff; padding: 8px 20px; margin: 5px 8px; border-radius: 20px; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1rem; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Agentic AI</span>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-%23ffd166?style=for-the-badge&logo=OpenAI&logoColor=073b4c&labelColor=ffd166">
+  <img src="https://img.shields.io/badge/Data%20Science-%2306d6a0?style=for-the-badge&logo=python&logoColor=073b4c&labelColor=06d6a0">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23118ab2?style=for-the-badge&logo=ai&logoColor=e0f7fa&labelColor=118ab2">
+  <img src="https://img.shields.io/badge/Agentic%20AI-%23ef476f?style=for-the-badge&logo=ghost&logoColor=fff&labelColor=ef476f">
+</p>
 <p align="center" style="font-style: italic; color: #666; margin-top: 8px; font-size: 0.9rem;">Buzzword Bingo Champion 2025 Edition 🏆</p>
 
 ---
